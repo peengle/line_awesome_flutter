@@ -1,0 +1,23 @@
+name: lineawesome_icons_demo
+description: An example app for lineawesome_icons package.
+
+version: 1.0.0
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  line_awesome_flutter: ^1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  expandable:
+    path: ../
+
+flutter:
+  uses-material-design: true

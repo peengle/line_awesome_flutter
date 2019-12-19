@@ -1,0 +1,25 @@
+name: line_awesome_flutter
+description: The Line Awesome Icons pack for flutter. Provides 1542 additional icons to use in your apps.
+author: Roman Nowicki <peengle@gmail.com>
+version: 1.0.0
+homepage: https://icons8.com/line-awesome
+repository: https://github.com/clean/line_awesome_flutter
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  fonts:
+    - family: LineAwesomeIcons
+      fonts:
+        - asset: lib/fonts/LineAwesome.ttf
+          weight: 400
