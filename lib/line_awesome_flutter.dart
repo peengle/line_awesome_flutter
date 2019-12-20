@@ -7,7 +7,7 @@ class LineAwesomeIcons {
   LineAwesomeIcons._();
 
   static const _kFontFam = 'LineAwesomeIcons';
-  static const _kFontPackage = 'lineawesome_icons';
+  static const _kFontPackage = 'line_awesome_flutter';
 
   static const IconData caret_square_right_1 =
       const IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPackage);
