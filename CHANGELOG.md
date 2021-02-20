@@ -1,3 +1,7 @@
+## 1.1.0-nullsafety
+
+* Migrate to nullsafety
+
 ## 1.0.1
 
 * bugfix: Correct package name param for IconData to match package name
