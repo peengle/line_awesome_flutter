@@ -17,7 +17,7 @@ Include `line_awesome_flutter` in your `pubspec.yaml` file:
 dependencies:
   flutter:
     sdk: flutter
-  line_awesome_flutter: ^1.0
+  line_awesome_flutter: ^<latest-version>
 ```
 
 If your IDE doesn't do it automatically, type:
