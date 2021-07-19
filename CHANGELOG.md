@@ -1,3 +1,7 @@
+## 2.0.0
+
+* Increase version number based on dart.dev migration guida recomendation for null safety
+
 ## 1.1.0-nullsafety
 
 * Migrate to nullsafety
