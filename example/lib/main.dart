@@ -14,7 +14,9 @@ class MyApp extends StatelessWidget {
           appBar: AppBar(
             title: Text("Line Awesome Icons Demo"),
           ),
-          body: Center(child: Icon(LineAwesomeIcons.home)),
+          body: Center(
+              child:
+                  Icon(LineAwesomeIcons.home, size: 50, color: Colors.green)),
         ));
   }
 }
