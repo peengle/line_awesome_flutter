@@ -1,3 +1,8 @@
+## 3.0.1
+
+* Updated README file
+* Corrected dangling library doc comment
+
 ## 3.0.0
 
 * Updated the icon set to include 1,552 Line Awesome icons from version 1.3.0.
