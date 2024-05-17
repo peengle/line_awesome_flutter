@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           ),
           body: Center(
               child:
-                  Icon(LineAwesomeIcons.home, size: 50, color: Colors.green)),
+                  Icon(LineAwesomeIcons.home_solid, size: 50, color: Colors.green)),
         ));
   }
 }

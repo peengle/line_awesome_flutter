@@ -2,12 +2,12 @@ name:  example
 description: An example app for line_awesome_flutter package.
 
 environment:
-  sdk: ">=2.3.0 <3.0.0"
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  # line_awesome_flutter: ^1.0.0
+  # line_awesome_flutter: ^2.1.0
   line_awesome_flutter:
     path: ../
 
