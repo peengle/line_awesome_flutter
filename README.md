@@ -32,10 +32,12 @@ Import the package in your `dart` file and use `Icon` to get the actual icon wid
 ```dart
 import 'package:line_awesome_flutter/line_awesome_flutter.dart';
 ...
-Icon _icon = Icon(LineAwesomeIcons.home);
+Icon _icon = Icon(LineAwesomeIcons.home_solid);
 ...
 ```
 
 ## Credits
 
 - https://icons8.com/line-awesome
+
+![Line Awesome](https://raw.githubusercontent.com/clean/line_awesome_flutter/master/line-awesome-icons.png)
