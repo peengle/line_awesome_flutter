@@ -40,4 +40,4 @@ Icon _icon = Icon(LineAwesomeIcons.home_solid);
 
 - https://icons8.com/line-awesome
 
-![Line Awesome](https://raw.githubusercontent.com/clean/line_awesome_flutter/master/line-awesome-icons.png)
+![Line Awesome](https://raw.githubusercontent.com/peengle/line_awesome_flutter/master/line-awesome-icons.png)
