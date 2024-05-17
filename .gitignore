@@ -1,1 +1,4 @@
 .dart_tool
+example/*
+!example/lib/main.dart
+!example/pubspec.yaml
